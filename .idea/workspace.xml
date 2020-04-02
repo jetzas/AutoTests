@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3ab9f4e-9ece-447c-a646-45fcb6022aaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zu4lqXGqK2I6ufYBnV3WBEJZzA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.Search.ticketBookingFunctionality">
+    <configuration name="LoginAndRegistrationTests.RegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ManogfLtTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ManogfLtTests" />
+      <option name="MAIN_CLASS_NAME" value="ManogfLtTests.LoginAndRegistrationTests" />
+      <option name="METHOD_NAME" value="RegistrationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search.CheckPaskolaPageFormValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Search" />
+      <option name="METHOD_NAME" value="CheckPaskolaPageFormValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search.ticketBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Search" />
+      <option name="METHOD_NAME" value="ticketBooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search.ticketBookingFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Search" />
+      <option name="METHOD_NAME" value="ticketBookingFunctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Search.ticketBookingFunctionality" />
+        <item itemvalue="TestNG.Search" />
+        <item itemvalue="TestNG.Search.ticketBooking" />
+        <item itemvalue="TestNG.Search.CheckPaskolaPageFormValidation" />
+        <item itemvalue="TestNG.LoginAndRegistrationTests.RegistrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3ab9f4e-9ece-447c-a646-45fcb6022aaf" name="Default Changelist" comment="" />
+      <created>1585675798495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585675798495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585676784258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1585676784258" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585677389547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585677389547" />
+    <state width="1286" height="240" key="GridCell.Tab.0.bottom" timestamp="1585854714379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="240" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585854714379" />
+    <state width="1286" height="240" key="GridCell.Tab.0.center" timestamp="1585854714378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="240" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585854714378" />
+    <state width="1286" height="240" key="GridCell.Tab.0.left" timestamp="1585854714378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="240" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585854714378" />
+    <state width="1286" height="240" key="GridCell.Tab.0.right" timestamp="1585854714378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="240" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585854714378" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1585839726957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585839726957" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1585839726957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585839726957" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1585839726957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585839726957" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1585839726957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585839726957" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585839353079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585839353079" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1585841177244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585841177244" />
+  </component>
+</project>

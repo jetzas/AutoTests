@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite"  >
+    <test name="GF ALL TESTS" parallel="classes" thread-count="5">
+        <groups>
+           <define name="regression">
+               <include name="Regression"/>
+           </define>
+           <run>
+               <include name="Regression"/>
+               <exclude name="Release"/>
+           </run>
+       </groups>
+       <classes>
+
+       </classes>
+    </test>
+</suite>
